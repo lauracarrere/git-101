@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+	background-color: red;
+}
+#logo{
+	height: 80px;
+	width: 80px;
+}
